@@ -5,6 +5,7 @@
 2. Desenvolvedor
 3. Galeria
 4. Funcionários
+5. [Flex](./img/flex.png)
 
 ## Dicas
 - [Exemplo de README.md](https://github.com/giannycabral/adote-um-animal)
