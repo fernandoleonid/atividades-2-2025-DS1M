@@ -8,4 +8,4 @@
 5. Funcionários
 
 ## Dicas
-[exemplo de README.md](https://github.com/giannycabral/adote-um-animal)
+- [exemplo de README.md](https://github.com/giannycabral/adote-um-animal)
