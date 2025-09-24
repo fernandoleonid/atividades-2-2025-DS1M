@@ -10,3 +10,4 @@
 
 ## Dicas
 - [Exemplo de README.md](https://github.com/giannycabral/adote-um-animal)
+- [treinar](https://www.notion.so/Aprender-e-Treinar-06c5bb46af8a4ac2a0583d63eacc9750)
