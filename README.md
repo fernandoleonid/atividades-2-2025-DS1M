@@ -7,7 +7,6 @@
 4. Funcionários
 5. [Flex](./img/flex.png)
 6. [Coca-Cola](./atividades/coca-cola.md)
-7. [Pikachu](https://www.figma.com/design/HLUdxgDy8ETxVCmwOkAiqF/SENAI---pikachu?t=J1NXlVInKTmGomX9-1)
 
 ## Dicas
 - [Exemplo de README.md](https://github.com/giannycabral/adote-um-animal)
